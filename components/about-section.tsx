@@ -36,7 +36,7 @@ export function AboutSection() {
           {/* Left Column - Bio */}
           <div className="space-y-6">
             <div className="space-y-2">
-              <span className="text-primary font-mono text-sm">01. About</span>
+              <span className="text-primary font-mono text-sm">About</span>
               <h2 className="text-3xl font-bold text-foreground">Who I Am</h2>
               <div className="w-20 h-1 bg-linear-to-r from-primary to-accent rounded-full" />
             </div>

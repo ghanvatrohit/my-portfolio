@@ -92,7 +92,7 @@ export function SkillsSection() {
 
       <div className="relative z-10 max-w-6xl mx-auto">
         <div className="text-center mb-16 space-y-4">
-          <span className="text-primary font-mono text-sm">02. Skills</span>
+          <span className="text-primary font-mono text-sm">Skills</span>
           <h2 className="text-3xl font-bold text-foreground">Skills & Expertise</h2>
           <div className="w-20 h-1 bg-linear-to-r from-primary to-accent rounded-full mx-auto" />
           <p className="text-muted-foreground max-w-2xl mx-auto">Technologies and tools I use to bring ideas to life</p>
